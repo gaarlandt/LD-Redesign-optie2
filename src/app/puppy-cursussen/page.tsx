@@ -15,7 +15,7 @@ const courses = [
   {
     title: "Puppy Basis",
     age: "8–16 weken",
-    image: "/images/beagle-playing.png",
+    image: "/LD-Redesign-optie2/images/beagle-playing.png",
     description:
       "De perfecte start voor je nieuwe puppy. Leer de basisprincipes van training, socialisatie en een goede band opbouwen.",
     modules: [
@@ -31,7 +31,7 @@ const courses = [
   {
     title: "Puppy Gevorderd",
     age: "4–8 maanden",
-    image: "/images/border-collie-training.png",
+    image: "/LD-Redesign-optie2/images/border-collie-training.png",
     description:
       "Bouw verder op de basis. Werk aan loostraining, terugkomen en omgaan met afleiding in de echte wereld.",
     modules: [
@@ -48,7 +48,7 @@ const courses = [
   {
     title: "Puber & Volwassen",
     age: "8+ maanden",
-    image: "/images/golden-retriever.png",
+    image: "/LD-Redesign-optie2/images/golden-retriever.png",
     description:
       "Voor de uitdagingen van de puberteit en daarna. Versterk gewenst gedrag en pak probleemgedrag aan.",
     modules: [

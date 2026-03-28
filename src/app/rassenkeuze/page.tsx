@@ -44,7 +44,7 @@ export default function RassenkeuzePage() {
               </div>
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/happy-dog-park.png"
+                  src="/LD-Redesign-optie2/images/happy-dog-park.png"
                   alt="Verschillende hondenrassen in het park"
                   fill
                   className="object-cover"

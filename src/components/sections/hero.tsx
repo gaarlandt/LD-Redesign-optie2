@@ -100,7 +100,7 @@ export function HeroSection() {
 
             <div className="relative h-full rounded-3xl overflow-hidden shadow-2xl">
               <Image
-                src="/images/hero-training.png"
+                src="/LD-Redesign-optie2/images/hero-training.png"
                 alt="Eigenaar traint samen met hond in het park"
                 fill
                 className="object-cover"

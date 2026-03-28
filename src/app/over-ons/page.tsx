@@ -65,7 +65,7 @@ export default function OverOnsPage() {
               </div>
               <div className="relative aspect-square rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/friends-with-dogs.png"
+                  src="/LD-Redesign-optie2/images/friends-with-dogs.png"
                   alt="Eigenaren genieten samen met hun honden"
                   fill
                   className="object-cover"
@@ -115,7 +115,7 @@ export default function OverOnsPage() {
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 <Image
-                  src="/images/owner-puppy-bond.png"
+                  src="/LD-Redesign-optie2/images/owner-puppy-bond.png"
                   alt="Eigenaar en puppy bouwen samen een band op"
                   fill
                   className="object-cover"

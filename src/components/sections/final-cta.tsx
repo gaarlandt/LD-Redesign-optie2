@@ -8,7 +8,7 @@ export function FinalCtaSection() {
       {/* Background image with overlay */}
       <div className="absolute inset-0">
         <Image
-          src="/images/child-with-labrador.png"
+          src="/LD-Redesign-optie2/images/child-with-labrador.png"
           alt=""
           fill
           className="object-cover opacity-15"

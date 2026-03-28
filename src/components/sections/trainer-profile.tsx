@@ -25,7 +25,7 @@ export function TrainerProfileSection() {
           <div className="relative">
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-lg">
               <Image
-                src="/images/puppy-hug.png"
+                src="/LD-Redesign-optie2/images/puppy-hug.png"
                 alt="Eigenaar knuffelt met puppy"
                 fill
                 className="object-cover"
